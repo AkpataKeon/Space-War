@@ -25,4 +25,6 @@ public class EnemyGun : MonoBehaviour
    {
       Instantiate(bulletprefab, firePoint.position, firePoint.rotation);
    }
+
+   
 }

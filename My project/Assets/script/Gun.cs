@@ -6,6 +6,7 @@ public class Gun : MonoBehaviour
 {
     public GameObject bulletprefab; //The bullet prefab to instantiate
     public Transform firePoint;     //The point  form where the bullet is fired
+    public AudioSource[] soundFX;
 
     void Update()
     {
@@ -13,6 +14,7 @@ public class Gun : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Shoot();
+            soundFX[0].Play();
         }
          
     }

@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 028b966807f529449ab6bbb316f9e425
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 251
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9131a088e78e4fb5e3ecca582dfaf
+      internalID: 1922857413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 251
+        width: 111
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebf49252d91bfd42af0211fd0712808
+      internalID: -1652790960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 216
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90bc16ee97f9240b9a19b2d838abdf
+      internalID: -612474795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 219
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8133558e7a4b47a89e412b9542e7f
+      internalID: 1499736917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 219
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a0bdc0e1114e4989dc7102d0d575b
+      internalID: 1341246868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 219
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128e526b373b214c8f48f2486341a68
+      internalID: 1568835548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 219
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293636ffa0f48064198c9d19917935bb
+      internalID: -1707350492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 187
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc30b4e8e7849a44c8071768054067a5
+      internalID: -1376295807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 181
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a71db2b0e8eb4ab68c99a83583bf8
+      internalID: 1338619062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 181
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a0328c722de0439fc1341da4dc45f
+      internalID: 1166075071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 183
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2bfbb6928e5d84686bbbf3750ad2d0
+      internalID: -425608065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 182
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3377b3eef6bd247a0af9e3cc6919d2
+      internalID: 1974000968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 150
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c26096e0b0c1d44a4bc88a6be6f98c
+      internalID: -739432550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 150
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714aa57b3a85bd34590569a0ef5ef91c
+      internalID: 220815015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92617fe314625f04d8903657ee71b04d
+      internalID: -1061277477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 151
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9138c44c130366f4db281c55d8b3dfc9
+      internalID: -1583393272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 150
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c3ecbf55c88d409c163ffd9598b2f
+      internalID: 879775993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f360cb828bbce4ab508ce9dc1c2e6e
+      internalID: -1044466577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b8bbe6c21cf5445a2685f45e9b4564
+      internalID: -1858979347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 118
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109bf727e871e04ba2717cef57fd9b2
+      internalID: -1963802156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99879f70642e943a57c65390d4d851
+      internalID: 514691962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 116
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6137f15e35316e41b32befde500b36a
+      internalID: -1242831134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 80
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ace1c6607a0a24b838415be66730a2
+      internalID: -1543459725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd5d5bf3ef0e845ae057a12bd4b83a
+      internalID: 297666977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 78
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c7b767fb86db43b78c34f5d31f2ad
+      internalID: -245319937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 78
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b2f0d33e6bab468e60d4d78b62097
+      internalID: 753716083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 80
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1423004959ba240bbf0f78b9093044
+      internalID: 1437831696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 47
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d12b9fc21fa67458585f94f026986b
+      internalID: 1091703565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 48
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c4e22507772140aa256b869af1b78
+      internalID: 1684939543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818def7e178016418628511d8ffd89f
+      internalID: -1911219242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 50
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17306ed28fa5234d87eb3dd80bf9925
+      internalID: 716937240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7eb4e21113f34ba7bd728efaef2e6
+      internalID: 661586593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea43bfb7d2794f4fb87b40025444ae9
+      internalID: -2004275535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 26
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11385e69bf7a0a041b5d7c3f56c75b53
+      internalID: -1371932746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 26
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94a99e5702ff54f986cc55548feede
+      internalID: -1991531046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7357404a0992b940ba22c00178b8c41
+      internalID: 990728279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 26
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28b12027da0ff14c81f9336c7598c17
+      internalID: 1596147057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eab0135c532524fb4c10c5e7b0ccc8
+      internalID: -139899145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 26
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0392a00439550043b241f7f02e43493
+      internalID: -1980073547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95949dc1a00a34e47b7b057fd9373e2a
+      internalID: -2037219079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2031b6f30e63384093864f2809f0123
+      internalID: 32771124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 76
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35ed5f411f7377489ab38eec192d98d
+      internalID: 1229469734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_Bullet-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 13
+        width: 84
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7b4d2cb5c23b44961ce4c8fb859da
+      internalID: 713323596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Laser_Bullet-removebg-preview_0: 1922857413
+      Laser_Bullet-removebg-preview_1: -1652790960
+      Laser_Bullet-removebg-preview_10: -425608065
+      Laser_Bullet-removebg-preview_11: 1974000968
+      Laser_Bullet-removebg-preview_12: -739432550
+      Laser_Bullet-removebg-preview_13: 220815015
+      Laser_Bullet-removebg-preview_14: -1061277477
+      Laser_Bullet-removebg-preview_15: -1583393272
+      Laser_Bullet-removebg-preview_16: 879775993
+      Laser_Bullet-removebg-preview_17: -1044466577
+      Laser_Bullet-removebg-preview_18: -1858979347
+      Laser_Bullet-removebg-preview_19: -1963802156
+      Laser_Bullet-removebg-preview_2: -612474795
+      Laser_Bullet-removebg-preview_20: 514691962
+      Laser_Bullet-removebg-preview_21: -1242831134
+      Laser_Bullet-removebg-preview_22: -1543459725
+      Laser_Bullet-removebg-preview_23: 297666977
+      Laser_Bullet-removebg-preview_24: -245319937
+      Laser_Bullet-removebg-preview_25: 753716083
+      Laser_Bullet-removebg-preview_26: 1437831696
+      Laser_Bullet-removebg-preview_27: 1091703565
+      Laser_Bullet-removebg-preview_28: 1684939543
+      Laser_Bullet-removebg-preview_29: -1911219242
+      Laser_Bullet-removebg-preview_3: 1499736917
+      Laser_Bullet-removebg-preview_30: 716937240
+      Laser_Bullet-removebg-preview_31: 661586593
+      Laser_Bullet-removebg-preview_32: -2004275535
+      Laser_Bullet-removebg-preview_33: -1371932746
+      Laser_Bullet-removebg-preview_34: -1991531046
+      Laser_Bullet-removebg-preview_35: 990728279
+      Laser_Bullet-removebg-preview_36: 1596147057
+      Laser_Bullet-removebg-preview_37: -139899145
+      Laser_Bullet-removebg-preview_38: -1980073547
+      Laser_Bullet-removebg-preview_39: -2037219079
+      Laser_Bullet-removebg-preview_4: 1341246868
+      Laser_Bullet-removebg-preview_40: 32771124
+      Laser_Bullet-removebg-preview_41: 1229469734
+      Laser_Bullet-removebg-preview_42: 713323596
+      Laser_Bullet-removebg-preview_5: 1568835548
+      Laser_Bullet-removebg-preview_6: -1707350492
+      Laser_Bullet-removebg-preview_7: -1376295807
+      Laser_Bullet-removebg-preview_8: 1338619062
+      Laser_Bullet-removebg-preview_9: 1166075071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
